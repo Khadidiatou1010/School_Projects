@@ -1,0 +1,3 @@
+-- Les données de l'UEMOA viennent du site le Banque Centrale.
+-- Les données sur les évènements politiques viennent du programme ACLED. Elles ont été altérées avant d'être mise à notre disposition, pour des raisons da confidentialité.
+-- Les données sur les délimitions géographiques du Sénégal viennent du site HDX data.
